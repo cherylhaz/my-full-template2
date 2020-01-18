@@ -1,7 +1,5 @@
-# Code Institute
+# My First Website
 
-Welcome USER_NAME,
+This project outlines my skills and is a showcase for learning with the Code Institute.
 
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+Currently this project uses CSS3 and HTML5.
